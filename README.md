@@ -1,7 +1,7 @@
 Onex Cash Core staging tree 1.4.0
 ===============================
 
-![onex logo](https://raw.githubusercontent.com/firesec/onexnet/master/src/qt/res/images/light/splash.png)
+![onex logo](https://raw.githubusercontent.com/reactnet/onexcore/master/src/qt/res/images/light/splash.png)
 
 http://www.onex.network
 
